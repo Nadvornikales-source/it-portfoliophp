@@ -1,0 +1,21 @@
+{
+  "name": "Bradu",
+  "skills": [
+    "C# / WinForms",
+    "PHP",
+    "HTML + CSS",
+    "Git + GitHub",
+    "Arduino"
+  ],
+  "interests": [
+    "Minecraft command blocky",
+    "True crime podcasty",
+    "Florbal",
+    "Auta a elektronika"
+  ],
+  "projects": [
+    "IT Profil 3.0 – PHP SSR",
+    "Arduino ruleta s RGB LED",
+    "Web portfolio na GitHub Pages"
+  ]
+}
